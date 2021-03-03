@@ -1,0 +1,21 @@
+@import 'header';
+@import 'fonts';
+@import 'main';
+@import 'footer';
+
+body{
+    width: 100%;
+}
+*{
+    margin: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.layout{
+    max-width: 100%;
+    overflow: hidden;
+}
